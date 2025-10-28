@@ -1,9 +1,9 @@
-import type { NextConfig } from 'next';
+import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   devIndicators: {
     buildActivity: true,
-    buildActivityPosition: 'bottom-right',
+    buildActivityPosition: "bottom-right",
   },
 };
 
